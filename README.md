@@ -5,12 +5,12 @@
 am Ayush jain currently pursuing bachelor of engineering from Vaish college of engineering,i am skilled in nodejs as well as frontend , keen learner ,looking for a opportunity with fastjobs
 
 
-This project extract the data from the excel file service built using nodejs.Developed 
-Developed a api/post request . first we upload a excel file and hit a api/pet post request and we extract the data from the file and insert into the database
-Developed a api/pet get request  with the help of this request we get the all details of pets in the databse
-Developed a api/post/:id  get request with the help of this request we get the details of particula pets only we need to provide the  unique id of that pet
-Develoed a api/pet/:id  patch request  with the help of this request we update the particulare pet details easily
-Developed a api/pet/:id  delete request with the help of this request we delete the  particular pet details in Databse
+This project extracts the data from the excel file service built using 	Nodejs. Developed 
+Developed an API/post request. first, we upload an excel file, hit an API/pet post request, extract the data from the file, and insert it into the database.
+Developed an API/pet get request  with the help of this request we get all the details of pets in the database.
+Developed an API/post/:id  get request with the help of this request we get the details of particular pets only we need to provide the  unique id of that pet.
+Developed a API/pet/:id  patch request  with the help of this request we update the particular pet details easily.
+Developed an API/pet/:id  delete request with the help of this request we delete the  particular pet details in Database.
 
   **Built using nodejs  version(16.15)**
   **How to run**   npm start command
